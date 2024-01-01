@@ -1,13 +1,1 @@
-{
-    "version": 3,
-    "file": "static/css/main.e42ad18f.css",
-    "mappings": "AAAA,KACE,iBACF,CACA,UACE,UAAU,CACV,UAKF,CACA,uBAJE,qBASF,CACA,6BARE,kBAAkB,CAHlB,YAAY,CAEZ,cAcF,CALA,MAEE,kBAGF,CAaA,6BAIE,kBAAkB,CAHlB,YAAY,CACZ,qBAAqB,CACrB,cAEF",
-    "sources": [
-        "App.css"
-    ],
-    "sourcesContent": [
-        ".App {\n  text-align: center;\n}\n.Language {\n  height:80%;\n  width:100%;\n  display:flex;\n  flex-direction:column;\n  flex-wrap: wrap;\n  align-items:center;\n}\n.FoodOrDrink {\n  display:flex;\n  flex-direction:column;\n  flex-wrap: wrap;\n  align-items:center;\n}\n.Food {\n  display:flex;\n  flex-direction:row;\n  flex-wrap: wrap;\n  align-items:center;\n}\n.FoodType {\n  display:flex;\n  flex-direction:column;\n  flex-wrap: wrap;\n  align-items:center;\n}\n.DrinkType {\n  display:flex;\n  flex-direction:column;\n  flex-wrap: wrap;\n  align-items:center;\n}\n.Drinks {\n  display:flex;\n  flex-direction:column;\n  flex-wrap: wrap;\n  align-items:center;\n}\n\n\n\n"
-    ],
-    "names": [],
-    "sourceRoot": ""
-}
+{"version":3,"file":"static/css/main.e42ad18f.css","mappings":"AAAA,KACE,iBACF,CACA,UACE,UAAU,CACV,UAKF,CACA,uBAJE,qBASF,CACA,6BARE,kBAAkB,CAHlB,YAAY,CAEZ,cAcF,CALA,MAEE,kBAGF,CAaA,6BAIE,kBAAkB,CAHlB,YAAY,CACZ,qBAAqB,CACrB,cAEF","sources":["App.css"],"sourcesContent":[".App {\n  text-align: center;\n}\n.Language {\n  height:80%;\n  width:100%;\n  display:flex;\n  flex-direction:column;\n  flex-wrap: wrap;\n  align-items:center;\n}\n.FoodOrDrink {\n  display:flex;\n  flex-direction:column;\n  flex-wrap: wrap;\n  align-items:center;\n}\n.Food {\n  display:flex;\n  flex-direction:row;\n  flex-wrap: wrap;\n  align-items:center;\n}\n.FoodType {\n  display:flex;\n  flex-direction:column;\n  flex-wrap: wrap;\n  align-items:center;\n}\n.DrinkType {\n  display:flex;\n  flex-direction:column;\n  flex-wrap: wrap;\n  align-items:center;\n}\n.Drinks {\n  display:flex;\n  flex-direction:column;\n  flex-wrap: wrap;\n  align-items:center;\n}\n\n\n\n"],"names":[],"sourceRoot":""}
