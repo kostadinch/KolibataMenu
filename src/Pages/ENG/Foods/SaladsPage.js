@@ -12,35 +12,35 @@ export default function Salads() {
           <FoodCard 
             title="Shopska Salad" 
             ingredients="400g" 
-            price="12.00лв" 
+            price="12.00lv" 
             weight="" 
             img={ShopskaSalad}/>
 
           <FoodCard 
             title="Tomatoes" 
             ingredients="300g" 
-            price="10.00лв" 
+            price="10.00lv" 
             weight="" 
             img={Tomatoes}/>
 
           <FoodCard 
             title="Cabbege With Carrots" 
             ingredients="400g" 
-            price="9.00лв" 
+            price="9.00lv" 
             weight="" 
             img={ZeleSMorkovi}/>
 
           <FoodCard 
             title="Milk Salad" 
             ingredients="300g" 
-            price="10.00лв" 
+            price="10.00lv" 
             weight="" 
             img={Mlechna}/>
 
           <FoodCard 
             title="Paprika Salad" 
             ingredients="200g" 
-            price="9.00лв" 
+            price="9.00lv" 
             weight="" 
             img={Liutenitsa}/>
         </div>

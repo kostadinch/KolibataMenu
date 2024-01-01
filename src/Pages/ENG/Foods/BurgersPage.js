@@ -9,14 +9,14 @@ function Burgers() {
           {/*<FoodCard 
             title="Веган Бургер" 
             ingredients="с пържени картофи" 
-            price="20.00лв" 
+            price="20.00lv" 
             weight="700g" 
             img={VeganNuggets}/>*/}
 
           <FoodCard 
             title="Beef Burger" 
             ingredients="with fried potatoes" 
-            price="20.00лв" 
+            price="20.00lv" 
             weight="700g" 
             img={TeleshkiBurger}/>
         </div>

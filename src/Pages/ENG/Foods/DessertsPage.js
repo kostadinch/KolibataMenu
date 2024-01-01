@@ -9,14 +9,14 @@ function Desserts() {
           <FoodCard 
             title="Pancake" 
             ingredients="with chocolate, honey, forest fruits" 
-            price="8.00лв" 
+            price="8.00lv" 
             weight="350g" 
             img={Pancake}/>
 
           {/*<FoodCard 
             title="Парче Торта" 
             ingredients="350g" 
-            price="8.00лв" 
+            price="8.00lv" 
             weight="" 
             img={ChickenNuggets}/>*/}
         </div>

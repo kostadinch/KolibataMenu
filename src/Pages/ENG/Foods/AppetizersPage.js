@@ -12,7 +12,7 @@ function Appetizers() {
           {/*<FoodCard 
             title="Веган Хапки" 
             ingredients="350g" 
-            price="25.00лв" 
+            price="25.00lv" 
             weight="" 
             img={VeganNuggets}/>
     */}
@@ -20,28 +20,28 @@ function Appetizers() {
           <FoodCard 
             title="Chicken Nuggets" 
             ingredients="350g" 
-            price="25.00лв" 
+            price="25.00lv" 
             weight="" 
             img={ChickenNuggets}/>
 
           <FoodCard 
             title="Omellette" 
             ingredients="400g" 
-            price="15.00лв" 
+            price="15.00lv" 
             weight="" 
             img={Omellette}/>
 
           <FoodCard 
             title="Fried Potatoes" 
             ingredients="400g" 
-            price="8.00лв" 
+            price="8.00lv" 
             weight="" 
             img={FriedPotatoes}/>
 
           <FoodCard 
             title="Fried Potatoes With Cheese" 
             ingredients="450g" 
-            price="10.00лв" 
+            price="10.00lv" 
             weight="" 
             img={FriedPotatoesWithCheese2}/>
         </div>

@@ -15,37 +15,37 @@ function HotDrinksPage() {
 
           <DrinkCard 
             title="Coffee" 
-            price="5.00лв" 
+            price="5.00lv" 
             weight="60ml" 
             img={Coffee}/>
           <DrinkCard 
             title="Coffee With Milk" 
-            price="6.00лв" 
+            price="6.00lv" 
             weight="250ml" 
             img={CoffeeWithMilk}/>
           <DrinkCard 
             title="Cappuccino" 
-            price="6.00лв" 
+            price="6.00lv" 
             weight="250ml" 
             img={Kapuchino}/>
           <DrinkCard 
             title="Mochaccino"
-            price="6.00лв" 
+            price="6.00lv" 
             weight="250ml" 
             img={Mochaccino}/>
           <DrinkCard 
             title="Hot Chocolate"
-            price="6.00лв" 
+            price="6.00lv" 
             weight="250ml" 
             img={HotChocolate}/>
           <DrinkCard 
             title="Hot Chocolate With Milk"
-            price="6.00лв" 
+            price="6.00lv" 
             weight="250ml" 
             img={HotChocolateWithMilk}/>
           <DrinkCard 
             title="Tea" 
-            price="5.00лв" 
+            price="5.00lv" 
             weight="250ml" 
             img={Tea}/>
           <div style={{marginTop:"7%"}}/>

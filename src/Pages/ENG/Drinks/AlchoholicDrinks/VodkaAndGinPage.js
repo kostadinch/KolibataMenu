@@ -11,32 +11,32 @@ function VodkaPage() {
         <div className="Drinks">
           <DrinkCard 
             title="Savoy Vodka" 
-            price="5.00лв" 
+            price="5.00lv" 
             weight="50ml" 
             img={SavoyVodka}/>
           <DrinkCard 
             title="Finlandia" 
-            price="8.00лв" 
+            price="8.00lv" 
             weight="50ml" 
             img={Finlandia}/>
           <DrinkCard 
             title="Beluga" 
-            price="12.00лв" 
+            price="12.00lv" 
             weight="50ml" 
             img={Beluga}/>
           <DrinkCard 
             title="Savoy Gin" 
-            price="5.00лв" 
+            price="5.00lv" 
             weight="50ml" 
             img={SavoyGin}/>
           <DrinkCard 
             title="Savoy Gin Pink" 
-            price="5.00лв" 
+            price="5.00lv" 
             weight="50ml" 
             img={SavoyGinPink}/>
           <DrinkCard 
             title="Bickens Gin" 
-            price="6.00лв" 
+            price="6.00lv" 
             weight="50ml" 
             img={BickensGin}/>
             <div style={{marginTop:"7%"}}/>

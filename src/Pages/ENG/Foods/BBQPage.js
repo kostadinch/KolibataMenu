@@ -14,63 +14,63 @@ function Pizzas() {
           <FoodCard 
             title="Pork Meatballs" 
             ingredients="2 pieces" 
-            price="10.00лв" 
+            price="10.00lv" 
             weight="360g" 
             img={PorkMeatballs}/>
 
           <FoodCard 
             title="Beef Meatballs" 
             ingredients="2 pieces" 
-            price="12.00лв" 
+            price="12.00lv" 
             weight="360g" 
             img={BeefMeatballs}/>
 
           <FoodCard 
             title="Pork Ribs" 
             ingredients="450g" 
-            price="30.00лв" 
+            price="30.00lv" 
             weight="" 
             img={PorkRibs}/>
 
           <FoodCard 
             title="Sausage" 
             ingredients="450g" 
-            price="25.00лв" 
+            price="25.00lv" 
             weight="" 
             img={Sausage}/>
 
           <FoodCard 
             title="Pork Steak" 
             ingredients="350g" 
-            price="25.00лв" 
+            price="25.00lv" 
             weight="" 
             img={PorkSteak}/>
             
           <FoodCard 
             title="Pork Shish Kebab" 
             ingredients="400g" 
-            price="33.00лв"
+            price="33.00lv"
             weight="" 
             img={PorkShishKebab}/>
 
           <FoodCard 
             title="Chicken Shish Kebab" 
             ingredients="400g" 
-            price="33.00лв"
+            price="33.00lv"
             weight="" 
             img={ChickenShishKebab}/> 
 
           <FoodCard 
             title="Chicken Fillet" 
             ingredients="350g" 
-            price="25.00лв"
+            price="25.00lv"
             weight="" 
             img={ChickenFillet}/>
 
           {/*<FoodCard 
             title="BBQ Mix" 
             ingredients="2kg" 
-            price="115.00лв"
+            price="115.00lv"
             weight="" 
             img={BBQMix}/>*/}
 

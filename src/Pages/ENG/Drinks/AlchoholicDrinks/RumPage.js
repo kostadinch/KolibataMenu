@@ -17,57 +17,57 @@ function RumPage() {
         <div className="Drinks">
           <DrinkCard 
             title="Captain Morgan"
-            price="7.00лв" 
+            price="7.00lv" 
             weight="50ml" 
             img={CaptainMorgan}/>
           <DrinkCard 
             title="Karnobat Brandy" 
-            price="5.00лв" 
+            price="5.00lv" 
             weight="50ml" 
             img={KarnobatBrandy}/>
           <DrinkCard 
             title="Savoy Rum" 
-            price="5.00лв" 
+            price="5.00lv" 
             weight="50ml" 
             img={SavoyRum}/>
           <DrinkCard 
             title="Martell" 
-            price="8.00лв" 
+            price="8.00lv" 
             weight="50ml" 
             img={Martell}/>
           <DrinkCard 
             title="Metaxa*****"
-            price="7.00лв" 
+            price="7.00lv" 
             weight="50ml" 
             img={Metaxa5}/>
           <DrinkCard 
             title="Metaxa*******"
-            price="8.00лв" 
+            price="8.00lv" 
             weight="50ml" 
             img={Metaxa7}/>
           <DrinkCard 
             title="Metaxa************"
-            price="9.00лв" 
+            price="9.00lv" 
             weight="50ml" 
             img={Metaxa12}/>
           <DrinkCard 
             title="Brugal Añejo"
-            price="8.00лв" 
+            price="8.00lv" 
             weight="50ml" 
             img={BrugalAñejo}/>
           <DrinkCard 
             title="Brugal Blanco"
-            price="8.00лв" 
+            price="8.00lv" 
             weight="50ml" 
             img={BrugalBlanco}/>
           <DrinkCard 
             title="Dead Man's Fingers Hazelnut"
-            price="7.00лв" 
+            price="7.00lv" 
             weight="50ml" 
             img={DeadManFingersHazelnut}/>
           <DrinkCard 
             title="Dead Man's Fingers Mango"
-            price="7.00лв " 
+            price="7.00lv " 
             weight="50ml" 
             img={DeadManFingersMango}/>
           

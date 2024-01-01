@@ -11,31 +11,31 @@ function RakiaPage() {
           <div style={{marginTop:"4%"}}/>
           <DrinkCard 
             title="Karnobatska Grape" 
-            price="5.00лв" 
+            price="5.00lv" 
             weight="50ml" 
             img={Karnobatska}/>
           <div style={{marginTop:"4%"}}/>
           <DrinkCard 
             title="Amber Brandy" 
-            price="6.00лв" 
+            price="6.00lv" 
             weight="50ml" 
             img={Kehlibar}/>
           <div style={{marginTop:"4%"}}/>
           <DrinkCard 
             title="Minkovi Brothers" 
-            price="8.00лв" 
+            price="8.00lv" 
             weight="50ml" 
             img={MinkovBrothers}/>
           <div style={{marginTop:"4%"}}/>
           <DrinkCard 
             title="Aristokrat"
-            price="8.00лв" 
+            price="8.00lv" 
             weight="50ml" 
             img={Aristokrat}/>
           <div style={{marginTop:"4%"}}/>
           <DrinkCard 
             title="Burgas 63"
-            price="8.00лв" 
+            price="8.00lv" 
             weight="50ml" 
             img={Burgas63}/>
           <div style={{marginTop:"14%"}}/>
