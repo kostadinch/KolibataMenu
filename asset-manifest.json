@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/KolibataMenu/static/css/main.e42ad18f.css",
-    "main.js": "/KolibataMenu/static/js/main.3072320f.js",
+    "main.js": "/KolibataMenu/static/js/main.e85cc093.js",
     "static/media/Margarita.GIF": "/KolibataMenu/static/media/Margarita.abc2e3a0f1af644b3866.GIF",
     "static/media/PileshkiShishlik.GIF": "/KolibataMenu/static/media/PileshkiShishlik.07b14626adaeaf832806.GIF",
     "static/media/Peperone.GIF": "/KolibataMenu/static/media/Peperone.90316bcebdbd7d29aa98.GIF",
@@ -113,10 +113,10 @@
     "static/media/Baileys.jpeg": "/KolibataMenu/static/media/Baileys.073004551584521d8ba4.jpeg",
     "index.html": "/KolibataMenu/index.html",
     "main.e42ad18f.css.map": "/KolibataMenu/static/css/main.e42ad18f.css.map",
-    "main.3072320f.js.map": "/KolibataMenu/static/js/main.3072320f.js.map"
+    "main.e85cc093.js.map": "/KolibataMenu/static/js/main.e85cc093.js.map"
   },
   "entrypoints": [
     "static/css/main.e42ad18f.css",
-    "static/js/main.3072320f.js"
+    "static/js/main.e85cc093.js"
   ]
 }
