@@ -1,2 +1,36 @@
-.App{text-align:center}.Language{height:80%;width:100%}.FoodOrDrink,.Language{flex-direction:column}.Food,.FoodOrDrink,.Language{align-items:center;display:flex;flex-wrap:wrap}.Food{flex-direction:row}.DrinkType,.Drinks,.FoodType{align-items:center;display:flex;flex-direction:column;flex-wrap:wrap}
+.App {
+    text-align: center
+}
+
+.Language {
+    height: 80%;
+    width: 100%
+}
+
+.FoodOrDrink,
+.Language {
+    flex-direction: column
+}
+
+.Food,
+.FoodOrDrink,
+.Language {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap
+}
+
+.Food {
+    flex-direction: row
+}
+
+.DrinkType,
+.Drinks,
+.FoodType {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap
+}
+
 /*# sourceMappingURL=main.e42ad18f.css.map*/
