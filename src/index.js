@@ -95,7 +95,7 @@ import ChooseWineTypePageRUS from "./Pages/RUS/Choose/ChooseWineTypePage.js";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/KolibataMenu",
     element: <App/>,
   },
   {
