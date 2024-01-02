@@ -71,7 +71,7 @@ function Pizzas() {
           {/*<FoodCard 
             title="Барбекю Микс" 
             ingredients="2kg" 
-            price="115.00лв"
+            price="120.00лв"
             weight="" 
             img={BBQMix}/>8*/}
 

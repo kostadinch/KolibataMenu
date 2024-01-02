@@ -65,12 +65,12 @@ function Pizzas() {
             price="25.00лв"
             weight="" 
             img={ChickenFillet}/>
-          <FoodCard 
+          {/*<FoodCard 
             title="BBQ микс" 
             ingredients="2kg" 
-            price="115.00лв"
+            price="120.00лв"
             weight="" 
-            img={BBQMix}/>
+            img={BBQMix}/>*/}
 
         </div>
       </div>
