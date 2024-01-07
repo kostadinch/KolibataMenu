@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-image: url('./WoodTexture.jpeg');
+  background-image: url('../public/WoodTexture.jpeg');
 }
 .Language {
   height:80%;
