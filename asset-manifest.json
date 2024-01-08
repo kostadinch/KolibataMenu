@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.a5e63def.css",
+    "main.css": "/static/css/main.e42ad18f.css",
     "main.js": "/static/js/main.18c9ac86.js",
     "static/media/Margarita.GIF": "/static/media/Margarita.abc2e3a0f1af644b3866.GIF",
     "static/media/PileshkiShishlik.GIF": "/static/media/PileshkiShishlik.07b14626adaeaf832806.GIF",
@@ -83,7 +83,6 @@
     "static/media/OuzoZorbas.jpeg": "/static/media/OuzoZorbas.14ce7d881dc07c95cfcf.jpeg",
     "static/media/Jameson.jpeg": "/static/media/Jameson.9d2c542a7c31a4b72171.jpeg",
     "static/media/Tatratea.jpeg": "/static/media/Tatratea.5f2dd8e4cf784bfd9ea4.jpeg",
-    "static/media/WoodTexture.jpeg": "/static/media/WoodTexture.09f80840d3a2473c63c4.jpeg",
     "static/media/Sprite.jpeg": "/static/media/Sprite.75811d0877e81c3eb9ea.jpeg",
     "static/media/Metaxa5.jpeg": "/static/media/Metaxa5.2d7dca4919813e01e126.jpeg",
     "static/media/BrugalBlanco.jpeg": "/static/media/BrugalBlanco.c638f955b43888bb81fb.jpeg",
@@ -113,11 +112,11 @@
     "static/media/Schweppes.jpeg": "/static/media/Schweppes.2722695fae8aa148a564.jpeg",
     "static/media/Baileys.jpeg": "/static/media/Baileys.073004551584521d8ba4.jpeg",
     "index.html": "/index.html",
-    "main.a5e63def.css.map": "/static/css/main.a5e63def.css.map",
+    "main.e42ad18f.css.map": "/static/css/main.e42ad18f.css.map",
     "main.18c9ac86.js.map": "/static/js/main.18c9ac86.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5e63def.css",
+    "static/css/main.e42ad18f.css",
     "static/js/main.18c9ac86.js"
   ]
 }
