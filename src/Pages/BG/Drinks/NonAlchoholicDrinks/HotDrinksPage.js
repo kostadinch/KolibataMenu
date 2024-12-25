@@ -25,22 +25,22 @@ function HotDrinksPage() {
             img={CoffeeWithMilk}/>
           <DrinkCard 
             title="Капучино" 
-            price="6.00лв" 
+            price="8.00лв" 
             weight="250ml" 
             img={Kapuchino}/>
           <DrinkCard 
             title="Мокачино"
-            price="6.00лв" 
+            price="8.00лв" 
             weight="250ml" 
             img={Mochaccino}/>
           <DrinkCard 
             title="Топъл Шоколад"
-            price="6.00лв" 
+            price="8.00лв" 
             weight="250ml" 
             img={HotChocolate}/>
           <DrinkCard 
             title="Мляко с Какао"
-            price="6.00лв" 
+            price="8.00лв" 
             weight="250ml" 
             img={HotChocolateWithMilk}/>
           <DrinkCard 

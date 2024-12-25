@@ -11,36 +11,36 @@ function RakiaPage() {
         <div className="Drinks"> 
           <DrinkCard 
             title="Татра Чай Кокос 22%" 
-            price="6.00лв" 
+            price="7.00лв" 
             weight="20ml" 
             img={Tatratea22}/>
           <div style={{marginTop:"4%"}}/>
           <DrinkCard 
             title="Татра Чай Цитрус 32%" 
-            price="6.00лв" 
+            price="7.00лв" 
             weight="20ml" 
             img={Tatratea32}/>
           <div style={{marginTop:"4%"}}/>
           <DrinkCard 
             title="Татра Чай Праскова 42%" 
-            price="6.00лв" 
+            price="7.00лв" 
             weight="20ml" 
             img={Tatratea42}/>
           <div style={{marginTop:"4%"}}/>
           <DrinkCard 
             title="Татра Чай Оригинален 52%"
-            price="6.00лв" 
+            price="7.00лв" 
             weight="20ml" 
             img={Tatratea52}/>
           <div style={{marginTop:"4%"}}/>
           <DrinkCard 
             title="Татра Чай Горски Плодове 62%"
-            price="6.00лв" 
+            price="7.00лв" 
             weight="20ml" 
             img={Tatratea62}/>
           <DrinkCard 
             title="Татра Чай Извън Закона 72%"
-            price="6.00лв" 
+            price="7.00лв" 
             weight="20ml" 
             img={Tatratea72}/>
           <div style={{marginTop:"7%"}}/>

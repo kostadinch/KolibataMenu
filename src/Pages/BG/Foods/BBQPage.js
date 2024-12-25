@@ -22,14 +22,14 @@ function Pizzas() {
           <FoodCard 
             title="Телешко Кюфтер" 
             ingredients="2 броя" 
-            price="12.00лв" 
+            price="14.00лв" 
             weight="360g" 
             img={BeefMeatballs}/>
 
           <FoodCard 
             title="Свински Ребра" 
             ingredients="450g" 
-            price="30.00лв" 
+            price="35.00лв" 
             weight="" 
             img={PorkRibs}/>
 
@@ -50,13 +50,13 @@ function Pizzas() {
           <FoodCard 
             title="Свински Шишлик" 
             ingredients="400g" 
-            price="33.00лв"
+            price="35.00лв"
             weight="" 
             img={PorkShishKebab}/>
           <FoodCard 
             title="Пилешки Шишлик" 
             ingredients="400g" 
-            price="33.00лв"
+            price="35.00лв"
             weight="" 
             img={ChickenShishKebab}/> 
           <FoodCard 
@@ -65,12 +65,12 @@ function Pizzas() {
             price="25.00лв"
             weight="" 
             img={ChickenFillet}/>
-          {/*<FoodCard 
+          {<FoodCard 
             title="BBQ микс" 
             ingredients="2kg" 
-            price="120.00лв"
+            price="130.00лв"
             weight="" 
-            img={BBQMix}/>*/}
+            img={BBQMix}/>}
 
         </div>
       </div>

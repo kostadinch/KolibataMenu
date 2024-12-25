@@ -9,25 +9,25 @@ function RedWinePage() {
           <div style={{marginTop:"9%"}}/>
           <DrinkCard
             title="Lьо Фотограф Сира" 
-            price="50.00лв" 
+            price="60.00лв" 
             weight="750ml" 
             img={LePhographeRed}/>
           <div style={{marginTop:"9%"}}/>
           <DrinkCard 
             title="Сайкъл Мерло" 
-            price="36.00лв" 
+            price="40.00лв" 
             weight="750ml" 
             img={Cycle}/>
           <div style={{marginTop:"9%"}}/>
           <DrinkCard 
             title="Сайкъл Каберне Совиньон" 
-            price="36.00лв" 
+            price="40.00лв" 
             weight="750ml" 
             img={Cycle}/>
           <div style={{marginTop:"9%"}}/>
           <DrinkCard 
             title="Сайкъл Мерло § Пино Ноар"
-            price="18.00лв" 
+            price="20.00лв" 
             weight="375ml" 
             img={Cycle}/>
           <div style={{marginTop:"25%"}}/>

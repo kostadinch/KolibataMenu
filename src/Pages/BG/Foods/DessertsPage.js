@@ -9,7 +9,7 @@ function Desserts() {
           <FoodCard 
             title="Палачинка" 
             ingredients="с шоколад, мед или горски плодове" 
-            price="8.00лв" 
+            price="9.00лв" 
             weight="350g" 
             img={Pancake}/>
 

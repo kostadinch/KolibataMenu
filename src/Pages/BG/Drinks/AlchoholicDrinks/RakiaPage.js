@@ -11,13 +11,13 @@ function RakiaPage() {
           <div style={{marginTop:"4%"}}/>
           <DrinkCard 
             title="Карнобатска" 
-            price="5.00лв" 
+            price="6.00лв" 
             weight="50ml" 
             img={Karnobatska}/>
           <div style={{marginTop:"4%"}}/>
           <DrinkCard 
             title="Кехлибар" 
-            price="6.00лв" 
+            price="7.00лв" 
             weight="50ml" 
             img={Kehlibar}/>
           <div style={{marginTop:"4%"}}/>

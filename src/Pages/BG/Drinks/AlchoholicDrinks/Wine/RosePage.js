@@ -9,25 +9,25 @@ function RosePage() {
           <div style={{marginTop:"9%"}}/>
           <DrinkCard 
             title="Льо Фотограф Розе" 
-            price="50.00лв" 
+            price="60.00лв" 
             weight="750ml" 
             img={LePhographeRose }/>
           <div style={{marginTop:"9%"}}/>
           <DrinkCard 
             title="Сайкъл Розе" 
-            price="36.00лв" 
+            price="40.00лв" 
             weight="750ml" 
             img={Cycle}/>
           <div style={{marginTop:"9%"}}/>
           <DrinkCard 
             title="Сайкъл Розе" 
-            price="18.00лв" 
+            price="20.00лв" 
             weight="375ml" 
             img={Cycle}/>
           <div style={{marginTop:"9%"}}/>
           <DrinkCard 
             title="Ботега Просеко" 
-            price="40.00лв" 
+            price="50.00лв" 
             weight="750ml" 
             img={BottegaProsecco}/>
           <div style={{marginTop:"25%"}}/>
