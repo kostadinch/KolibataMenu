@@ -8,25 +8,25 @@ function WhiteWinePage() {
           <div style={{marginTop:"9%"}}/>
           <DrinkCard 
             title="Льо Фотограф Совиньон Блан" 
-            price="50.00лв" 
+            price="60.00лв" 
             weight="750ml" 
             img={LePhographeWhite}/>
           <div style={{marginTop:"9%"}}/>
           <DrinkCard 
             title="Сайкъл Шардоне § Коломбар" 
-            price="36.00лв" 
+            price="40.00лв" 
             weight="750ml" 
             img={Cycle}/>
           <div style={{marginTop:"9%"}}/>
           <DrinkCard 
             title="Сайкъл Совиньон Блан" 
-            price="36.00лв" 
+            price="40.00лв" 
             weight="750ml" 
             img={Cycle}/>
           <div style={{marginTop:"9%"}}/>
           <DrinkCard 
             title="Сайкъл Совиньон Блан"
-            price="18.00лв" 
+            price="20.00лв" 
             weight="375ml" 
             img={Cycle}/>
           <div style={{marginTop:"25%"}}/>

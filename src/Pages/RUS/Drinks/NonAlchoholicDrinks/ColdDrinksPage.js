@@ -16,42 +16,42 @@ function HotDrinksPage() {
 
           <DrinkCard 
             title="Кока-Кола" 
-            price="6.00лв" 
+            price="8.00лв" 
             weight="500ml" 
             img={CocaCola}/>
           <DrinkCard 
             title="Фанта" 
-            price="6.00лв" 
+            price="8.00лв" 
             weight="500ml" 
             img={Fanta}/>
           <DrinkCard 
             title="Спрайт" 
-            price="6.00лв" 
+            price="8.00лв" 
             weight="500ml" 
             img={Sprite}/>
           <DrinkCard 
             title="Швепс Тоник"
-            price="6.00лв" 
+            price="8.00лв" 
             weight="500ml" 
             img={Schweppes}/>
           <DrinkCard 
             title="Швепс Сода"
-            price="4.00лв" 
+            price="5.00лв" 
             weight="500ml" 
             img={Schweppes}/>
           <DrinkCard 
             title="Минеральная вода Банкя" 
-            price="3.00лв" 
+            price="5.00лв" 
             weight="500ml" 
             img={MineralWater}/>
           <DrinkCard 
             title="Кэппи" 
-            price="5.00лв" 
+            price="7.00лв" 
             weight="250ml" 
             img={Cappy}/>
           <DrinkCard 
             title="Фузетеа" 
-            price="6.00лв" 
+            price="8.00лв" 
             weight="500ml" 
             img={Fuzetea}/>
           <DrinkCard 
@@ -59,11 +59,6 @@ function HotDrinksPage() {
             price="10.00лв" 
             weight="250ml" 
             img={Redbull}/>
-          <DrinkCard 
-            title="Монстр" 
-            price="10.00лв" 
-            weight="500ml" 
-            img={Monster}/>
           <div style={{marginTop:"7%"}}/>
         </div>
       </div>

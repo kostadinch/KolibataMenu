@@ -16,7 +16,7 @@ function Burgers() {
           <FoodCard 
             title="Beef Burger" 
             ingredients="with fried potatoes" 
-            price="20.00lv" 
+            price="25.00lv" 
             weight="700g" 
             img={TeleshkiBurger}/>
         </div>

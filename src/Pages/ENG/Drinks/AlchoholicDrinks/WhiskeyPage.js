@@ -17,27 +17,27 @@ function WhiskeyPage() {
             img={SavoyWhiskey}/>
           <DrinkCard 
             title="Jameson" 
-            price="8.00lv" 
+            price="10.00lv" 
             weight="50ml" 
             img={Jameson}/>
           <DrinkCard 
             title="Glenfiddich" 
-            price="15.00lv" 
+            price="16.00lv" 
             weight="50ml" 
             img={Glenfiddich}/>
           <DrinkCard 
             title="Johnie Walker Black"
-            price="15.00lv" 
+            price="16.00lv" 
             weight="50ml" 
             img={JohnieWalkerBlack}/>
           <DrinkCard 
             title="Famous Grouse"
-            price="8.00lv" 
+            price="10.00lv" 
             weight="50ml" 
             img={FamousGrouse}/>
           <DrinkCard 
             title="Jack Daniel's" 
-            price="10.00lv" 
+            price="12.00lv" 
             weight="50ml" 
             img={JackDaniels}/>
           <div style={{marginTop:"7%"}}/>

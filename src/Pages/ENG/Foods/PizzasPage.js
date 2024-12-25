@@ -12,42 +12,42 @@ function Pizzas() {
           <FoodCard 
             title="Margarita" 
             ingredients="tomato sauce, mozzarella, olive oil, oregano" 
-            price="20.00lv" 
+            price="25.00lv" 
             weight="600g" 
             img={Margarita}/>
 
           <FoodCard 
             title="Quattro Formaggi" 
             ingredients="tomato sauce, four kinds of cheese, olive oil" 
-            price="25.00lv" 
+            price="30.00lv" 
             weight="500g" 
             img={ChetiriSirena}/>
 
           <FoodCard 
             title="Capricciosa" 
             ingredients="tomato sauce, ham, bacon, mushrooms, mozzarella, olive oil, oregano, olive" 
-            price="25.00lv" 
+            price="30.00lv" 
             weight="500g" 
             img={Kaprichoza}/>
 
           <FoodCard 
             title="Pepperone" 
             ingredients="tomato sauce, mozzarella, pepperoni salami, oregano" 
-            price="25.00lv" 
+            price="30.00lv" 
             weight="500g" 
             img={Peperone}/>
 
           <FoodCard 
             title="Vegeterian" 
             ingredients="tomato sauce, onion, fresh peppers, mushrooms, mozzarella, olive, olive oil, oregano" 
-            price="22.00lv" 
+            price="25.00lv" 
             weight="500g" 
             img={Vegetariana}/>
             
           <FoodCard 
             title="Homemade Bread With Mozzarella" 
             ingredients="350g" 
-            price="6.00lv"
+            price="8.00lv"
             weight="" 
             img={ParlenkaSMocarela}/>
 

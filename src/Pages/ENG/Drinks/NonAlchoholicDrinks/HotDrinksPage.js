@@ -25,22 +25,22 @@ function HotDrinksPage() {
             img={CoffeeWithMilk}/>
           <DrinkCard 
             title="Cappuccino" 
-            price="6.00lv" 
+            price="8.00lv" 
             weight="250ml" 
             img={Kapuchino}/>
           <DrinkCard 
             title="Mochaccino"
-            price="6.00lv" 
+            price="8.00lv" 
             weight="250ml" 
             img={Mochaccino}/>
           <DrinkCard 
             title="Hot Chocolate"
-            price="6.00lv" 
+            price="8.00lv" 
             weight="250ml" 
             img={HotChocolate}/>
           <DrinkCard 
             title="Hot Chocolate With Milk"
-            price="6.00lv" 
+            price="8.00lv" 
             weight="250ml" 
             img={HotChocolateWithMilk}/>
           <DrinkCard 

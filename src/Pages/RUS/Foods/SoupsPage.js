@@ -10,21 +10,21 @@ function Soups() {
           <FoodCard 
             title="Куриный суп" 
             ingredients="350ml" 
-            price="7.00лв" 
+            price="8.00лв" 
             weight="" 
             img={ChickenSoup}/>
 
           <FoodCard 
             title="Бобовый Суп" 
             ingredients="350ml" 
-            price="7.00лв" 
+            price="8.00лв" 
             weight="" 
             img={Bob}/>
 
           <FoodCard 
             title="Суп из Рубца" 
             ingredients="350g" 
-            price="8.00лв" 
+            price="9.00лв" 
             weight="" 
             img={Shkembe}/>
         </div>

@@ -18,57 +18,52 @@ function BeerPage() {
 
           <DrinkCard 
             title="Franziskaner" 
-            price="10.00lv" 
+            price="12.00lv" 
             weight="500ml" 
             img={Franziskaner}/>
           <DrinkCard 
             title="Guinness" 
-            price="10.00lv" 
+            price="12.00lv" 
             weight="440ml" 
             img={Guinness}/>
           <DrinkCard 
             title="Kamenitsa" 
-            price="6.00lv" 
+            price="8.00lv" 
             weight="500ml" 
             img={Kamenitsa}/>
           <DrinkCard 
             title="Stella Artois" 
-            price="8.00lv" 
+            price="10.00lv" 
             weight="500ml" 
             img={StellaArtois}/>
           <DrinkCard 
             title="Leffe Blond" 
-            price="10.00lv" 
+            price="12.00lv" 
             weight="500ml" 
             img={LefeBlond}/>
           <DrinkCard 
-            title="Leffe Braun"
-            price="10.00lv" 
-            weight="500ml" 
-            img={LefeBraun}/>
-          <DrinkCard 
             title="Hoegaarden" 
-            price="10.00lv" 
+            price="12.00lv" 
             weight="330ml" 
             img={Hoegaarden}/>
           <DrinkCard 
             title="Corona" 
-            price="8.00lv" 
+            price="12.00lv" 
             weight="355ml" 
             img={Corona}/>
           <DrinkCard 
             title="Somersby Cider" 
-            price="8.00lv" 
+            price="9.00lv" 
             weight="330ml" 
             img={Somersby}/>
           <DrinkCard 
             title="Staropramen" 
-            price="8.00lv" 
+            price="10.00lv" 
             weight="500ml" 
             img={Staropramen}/>
           <DrinkCard 
             title="Staropramen 0%" 
-            price="8.00lv" 
+            price="10.00lv" 
             weight="500ml" 
             img={Staropramen0}/>
           <div style={{marginTop:"7%"}}/>

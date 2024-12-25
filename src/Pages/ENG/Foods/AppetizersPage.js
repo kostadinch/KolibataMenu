@@ -34,14 +34,14 @@ function Appetizers() {
           <FoodCard 
             title="Fried Potatoes" 
             ingredients="400g" 
-            price="8.00lv" 
+            price="10.00lv" 
             weight="" 
             img={FriedPotatoes}/>
 
           <FoodCard 
             title="Fried Potatoes With Cheese" 
             ingredients="450g" 
-            price="10.00lv" 
+            price="12.00lv" 
             weight="" 
             img={FriedPotatoesWithCheese2}/>
         </div>

@@ -9,7 +9,7 @@ function HotDrinksWithAlchoholPage() {
         <div className="Drinks">
           <DrinkCard 
             title="Глинтвейн" 
-            price="6.00лв" 
+            price="8.00лв" 
             weight="250ml" 
             img={MulledWine}/>
           <DrinkCard 
@@ -19,7 +19,7 @@ function HotDrinksWithAlchoholPage() {
             img={Tea}/>
           <DrinkCard 
             title="Чай с Ромом" 
-            price="7.00лв" 
+            price="8.00лв" 
             weight="250ml" 
             img={Tea}/>
           <DrinkCard 
@@ -29,12 +29,12 @@ function HotDrinksWithAlchoholPage() {
             img={Tea}/>
           <DrinkCard 
             title="Горячий Шоколад с Ромом"
-            price="7.00лв" 
+            price="10.00лв" 
             weight="250ml" 
             img={HotChocolate}/>
           <DrinkCard 
             title="Горячий шоколад с Бейлисом" 
-            price="10.00лв" 
+            price="12.00лв" 
             weight="250ml" 
             img={HotChocolate}/>
           <div style={{marginTop:"7%"}}/>

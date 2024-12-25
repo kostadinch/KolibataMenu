@@ -7,32 +7,32 @@ function BulkWinePage() {
 
           <DrinkCard 
             title="Белый Шато Карнобат" 
-            price="25.00лв" 
+            price="30.00лв" 
             weight="1000ml" 
             img={ChatoKarnobat}/>
           <DrinkCard 
             title="Белый Шато Карнобат" 
-            price="13.00лв" 
+            price="15.00лв" 
             weight="500ml" 
             img={ChatoKarnobat}/>
           <DrinkCard 
             title="Розе Шато Карнобат" 
-            price="25.00лв" 
+            price="30.00лв" 
             weight="1000ml" 
             img={ChatoKarnobat}/>
           <DrinkCard 
             title="Розе Шато Карнобат"
-            price="13.00лв" 
+            price="15.00лв" 
             weight="500ml" 
             img={ChatoKarnobat}/>
           <DrinkCard 
             title="Красное Шато Карнобат"
-            price="25.00лв" 
+            price="30.00лв" 
             weight="1000ml" 
             img={ChatoKarnobat}/>
           <DrinkCard 
             title="Красное Шато Карнобат" 
-            price="13.00лв" 
+            price="15.00лв" 
             weight="500ml" 
             img={ChatoKarnobat}/>
           <div style={{marginTop:"7%"}}/>

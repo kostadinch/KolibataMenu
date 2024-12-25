@@ -16,42 +16,42 @@ function HotDrinksPage() {
 
           <DrinkCard 
             title="Coca-Cola" 
-            price="6.00lv" 
+            price="8.00lv" 
             weight="500ml" 
             img={CocaCola}/>
           <DrinkCard 
             title="Fanta" 
-            price="6.00lv" 
+            price="8.00lv" 
             weight="500ml" 
             img={Fanta}/>
           <DrinkCard 
             title="Sprite" 
-            price="6.00lv" 
+            price="8.00lv" 
             weight="500ml" 
             img={Sprite}/>
           <DrinkCard 
             title="Schweppes Tonic"
-            price="6.00lv" 
+            price="8.00lv" 
             weight="500ml" 
             img={Schweppes}/>
           <DrinkCard 
             title="Schweppes Soda"
-            price="4.00lv" 
+            price="5.00lv" 
             weight="500ml" 
             img={Schweppes}/>
           <DrinkCard 
             title="Mineral Water Bankya" 
-            price="3.00lv" 
+            price="5.00lv" 
             weight="500ml" 
             img={MineralWater}/>
           <DrinkCard 
             title="Cappy" 
-            price="5.00lv" 
+            price="7.00lv" 
             weight="250ml" 
             img={Cappy}/>
           <DrinkCard 
             title="Fuzetea" 
-            price="6.00lv" 
+            price="8.00lv" 
             weight="500ml" 
             img={Fuzetea}/>
           <DrinkCard 
@@ -59,11 +59,6 @@ function HotDrinksPage() {
             price="10.00lv" 
             weight="250ml" 
             img={Redbull}/>
-          <DrinkCard 
-            title="Monster" 
-            price="10.00lv" 
-            weight="500ml" 
-            img={Monster}/>
           <div style={{marginTop:"7%"}}/>
         </div>
       </div>

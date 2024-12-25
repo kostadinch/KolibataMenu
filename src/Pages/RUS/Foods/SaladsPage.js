@@ -12,28 +12,28 @@ function Salads() {
           <FoodCard 
             title="Шопский Салат" 
             ingredients="400g" 
-            price="12.00лв" 
+            price="15.00лв" 
             weight="" 
             img={ShopskaSalad}/>
 
           <FoodCard 
             title="Помидоры Салат" 
             ingredients="300g" 
-            price="10.00лв" 
+            price="12.00лв" 
             weight="" 
             img={TomatoesSalad}/>
 
           <FoodCard 
             title="Капуста с Морковью" 
             ingredients="400g" 
-            price="9.00лв" 
+            price="10.00лв" 
             weight="" 
             img={ZeleSMorkovi}/>
 
           <FoodCard 
             title="Молочный Салат" 
             ingredients="300g" 
-            price="10.00лв" 
+            price="12.00лв" 
             weight="" 
             img={Mlechna}/>
 

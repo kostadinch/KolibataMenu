@@ -9,14 +9,14 @@ function Pasta() {
           <FoodCard 
             title="Спагетти Болоньезе" 
             ingredients="400g" 
-            price="20.00лв" 
+            price="25.00лв" 
             weight="" 
             img={Boloneze}/>
 
           <FoodCard 
             title="Спагетти Карбонара" 
             ingredients="400g" 
-            price="20.00лв" 
+            price="25.00лв" 
             weight="" 
             img={Karnobara}/>
         </div>

@@ -21,14 +21,14 @@ function Pizzas() {
           <FoodCard 
             title="Beef Meatballs" 
             ingredients="2 pieces" 
-            price="12.00lv" 
+            price="14.00lv" 
             weight="360g" 
             img={BeefMeatballs}/>
 
           <FoodCard 
             title="Pork Ribs" 
             ingredients="450g" 
-            price="30.00lv" 
+            price="35.00lv" 
             weight="" 
             img={PorkRibs}/>
 
@@ -49,14 +49,14 @@ function Pizzas() {
           <FoodCard 
             title="Pork Shish Kebab" 
             ingredients="400g" 
-            price="33.00lv"
+            price="35.00lv"
             weight="" 
             img={PorkShishKebab}/>
 
           <FoodCard 
             title="Chicken Shish Kebab" 
             ingredients="400g" 
-            price="33.00lv"
+            price="33#5.00lv"
             weight="" 
             img={ChickenShishKebab}/> 
 

@@ -18,58 +18,52 @@ function BeerPage() {
 
           <DrinkCard 
             title="Францисканнер" 
-            price="10.00лв" 
+            price="12.00лв" 
             weight="500ml" 
             img={Franziskaner}/>
           <DrinkCard 
             title="Гиннесс" 
-            price="10.00лв" 
+            price="12.00лв" 
             weight="440ml" 
             img={Guinness}/>
           <DrinkCard 
             title="Каменица" 
-            price="6.00лв" 
+            price="8.00лв" 
             weight="500ml" 
             img={Kamenitsa}/>
           <DrinkCard 
             title="Стелла Артуа" 
-            price="8.00лв" 
+            price="10.00лв" 
             weight="500ml" 
             img={StellaArtois}/>
           <DrinkCard 
             title="Леффе Блонд" 
-            price="10.00лв" 
+            price="12.00лв" 
             weight="500ml" 
             img={LefeBlond}/>
           <DrinkCard 
-            title="Леффе Браун"
-            price="10.00лв" 
-            weight="500ml" 
-            img={LefeBraun}/>
-          <DrinkCard 
             title="Хугарден" 
-            price="10.00лв" 
+            price="12.00лв" 
             weight="330ml" 
             img={Hoegaarden}/>
           <DrinkCard 
             title="Корона" 
-            price="8.00лв" 
+            price="12.00лв" 
             weight="355ml" 
             img={Corona}/>
           <DrinkCard 
             title="Сидр Сомерсби" 
-            price="8.00лв" 
+            price="9.00лв" 
             weight="330ml" 
             img={Somersby}/>
           <DrinkCard 
             title="Старопрамен" 
-            price="8.00лв" 
+            price="10.00лв" 
             weight="500ml" 
             img={Staropramen}/>
           <DrinkCard 
-            title="
-            Старопрамен 0%" 
-            price="8.00лв" 
+            title="Старопрамен 0%" 
+            price="10.00лв" 
             weight="500ml" 
             img={Staropramen0}/>
           <div style={{marginTop:"7%"}}/>

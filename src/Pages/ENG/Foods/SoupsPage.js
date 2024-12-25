@@ -10,21 +10,21 @@ function Soups() {
           <FoodCard 
             title="Chicken Soup" 
             ingredients="350ml" 
-            price="7.00lv" 
+            price="8.00lv" 
             weight="" 
             img={ChickenSoup}/>
 
           <FoodCard 
             title="Bean Soup" 
             ingredients="350ml" 
-            price="7.00lv" 
+            price="8.00lv" 
             weight="" 
             img={Bob}/>
 
           <FoodCard 
             title="Tripe Soup" 
             ingredients="350g" 
-            price="8.00lv" 
+            price="9.00lv" 
             weight="" 
             img={Shkembe}/>
         </div>

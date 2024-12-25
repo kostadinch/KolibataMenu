@@ -34,14 +34,14 @@ function Appetizers() {
           <FoodCard 
             title="Жареная Картошка" 
             ingredients="400g" 
-            price="8.00лв" 
+            price="10.00лв" 
             weight="" 
             img={FriedPotatoes}/>
 
           <FoodCard 
             title="Жареный Картофель с Сыром" 
             ingredients="450g" 
-            price="10.00лв" 
+            price="12.00лв" 
             weight="" 
             img={FriedPotatoesWithCheese2}/>
         </div>

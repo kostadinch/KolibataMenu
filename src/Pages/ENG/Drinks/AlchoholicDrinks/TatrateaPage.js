@@ -11,36 +11,36 @@ function RakiaPage() {
         <div className="Drinks"> 
           <DrinkCard 
             title="Tatratea With Coconut 22%" 
-            price="6.00lv" 
+            price="7.00lv" 
             weight="20ml" 
             img={Tatratea22}/>
           <div style={{marginTop:"4%"}}/>
           <DrinkCard 
             title="Tatratea Citrus 32%" 
-            price="6.00lv" 
+            price="7.00lv" 
             weight="20ml" 
             img={Tatratea32}/>
           <div style={{marginTop:"4%"}}/>
           <DrinkCard 
             title="Tatratea Peach 42%" 
-            price="6.00lv" 
+            price="7.00lv" 
             weight="20ml" 
             img={Tatratea42}/>
           <div style={{marginTop:"4%"}}/>
           <DrinkCard 
             title="Tatratea Original 52%"
-            price="6.00lv" 
+            price="7.00lv" 
             weight="20ml" 
             img={Tatratea52}/>
           <div style={{marginTop:"4%"}}/>
           <DrinkCard 
             title="Tatratea Forest Fruit 62%"
-            price="6.00lv" 
+            price="7.00lv" 
             weight="20ml" 
             img={Tatratea62}/>
           <DrinkCard 
             title="Tatratea Outlaw 72%"
-            price="6.00lv" 
+            price="7.00lv" 
             weight="20ml" 
             img={Tatratea72}/>
           <div style={{marginTop:"7%"}}/>
